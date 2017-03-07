@@ -24,13 +24,13 @@ android {
 
     productFlavors{
         qihoo{
-            applicationId 'com.qihoo.2017'
+            applicationId 'com.qihoo.a2017'
         }
         tencent{
-            applicationId 'com.tencent.2017'
+            applicationId 'com.tencent.a2017'
         }
         baidu{
-            applicationId 'com.baidu.2017'
+            applicationId 'com.baidu.a2017'
         }
     }
 }

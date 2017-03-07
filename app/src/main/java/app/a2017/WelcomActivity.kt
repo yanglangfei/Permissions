@@ -1,4 +1,4 @@
-package app.a2017;
+package app.a2017
 import android.app.Activity
 import android.content.Context
 import android.content.Intent
